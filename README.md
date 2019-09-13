@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A simple React Todo practice appliaction. User can add and delete todos by clicking on them
+
+<img width="799" alt="Screen Shot 2019-09-13 at 1 02 53 PM" src="https://user-images.githubusercontent.com/32042786/64888691-d3164a00-d628-11e9-9f23-ade7a45c6274.png"> 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
